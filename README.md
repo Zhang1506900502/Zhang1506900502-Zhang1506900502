@@ -20,13 +20,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [my-web-projects](https://github.com/Zhang1506900502/my-web-projects) | Personal web projects |
-| [vue-canvas-effect](https://github.com/Zhang1506900502/vue-canvas-effect) | Vue canvas animation effects |
-| [iDataV](https://github.com/Zhang1506900502/iDataV) | Big screen data visualization demo |
 
 ---
 
